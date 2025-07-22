@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Poppins',sans-serif;
     margin: 0;
     padding: 0;
 }
@@ -10,8 +10,8 @@ body {
 
 .sidebar {
     width: 200px;
-    background-color: #333;
-    color: #fff;
+    background-color: #fff;
+    color: #000;
     padding: 20px;
 }
 
@@ -29,7 +29,7 @@ body {
 }
 
 .sidebar a {
-    color: #fff;
+    color: #000;
     text-decoration: none;
 }
 
